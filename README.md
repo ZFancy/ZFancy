@@ -3,7 +3,7 @@
 I am Jianing Zhu.
 
 - 🌱 My research interests mainly lie in ```adversarial machine learning``` and ```trustworthy federated learning```. 
-- 😄 Please feel free to contact me for collaboration or open intern positions.
+- 😄 Please feel free to contact me for any question or collaboration.
 
 <!--
 **ZFancy/ZFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
