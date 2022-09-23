@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jianing Zhu.
+I am Jianing.
 
 - 🌱 My current research interests mainly lie in ```robust machine learning``` and ```the corresponding applications```. 
 - 😄 Please feel free to contact me for any question or collaboration.
