@@ -2,7 +2,7 @@
 
 I am Jianing Zhu.
 
-- 🌱 My current research interests mainly lie in ```adversarial machine learning``` and ```its applications```. 
+- 🌱 My current research interests mainly lie in ```robust machine learning``` and ```the corresponding applications```. 
 - 😄 Please feel free to contact me for any question or collaboration.
 
 <!--
