@@ -3,7 +3,7 @@
 I am Jianing.
 
 - 🌱 My current research interests mainly lie in ```robust machine learning``` and ```the corresponding applications```. 
-- 😄 Please feel free to contact me for any question or collaboration.
+- 😄 Please feel free to contact me for any question.
 
 <!--
 **ZFancy/ZFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
