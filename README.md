@@ -2,7 +2,7 @@
 
 I am Jianing, a CS Ph.D. Student @ HKBU & TMLR Group (https://github.com/tmlr-group).
 
-- 🌱 My current research interests mainly lie in ```robust machine learning``` and ```the corresponding applications```. 
+- 🌱 My current research interests mainly lie in ```robust & reliable machine learning``` and ```the corresponding applications```. 
 - 😄 Please feel free to contact me for any question.
 
 <!--
