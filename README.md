@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Jianing, a CS Ph.D. Student @ HKBU & TMLR Group (https://github.com/tmlr-group).
+I am Jianing, a Postdoc @ VITA & UT Austin (https://zfancy.github.io).
 
-- 🌱 My current research interests mainly lie in ```robust & reliable machine learning``` and ```the corresponding applications```. 
+- 🌱 My current research interests mainly lie in ```Responsible AI``` and ```Trustworthy Machine Learning```. 
 - 😄 Please feel free to contact me for any question.
 
 <!--
