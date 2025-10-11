@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Jianing, a Postdoc @ VITA & UT Austin (https://zfancy.github.io).
+I am an Postdoctoral Fellow at VITA group of UT Austin, working with Prof. Atlas Wang. I received my PhD at Trustworthy Machine Learning and Reasoning (TMLR) Group in the Department of Computer Science, Hong Kong Baptist University, advised by Dr. Bo Han. I was a visiting student researcher at CMU MLD, fortunately working with Prof. Pradeep Ravikumar, and I was a research intern at RIKEN AIP, fortunately working with Dr. Gang Niu and Prof. Masashi Sugiyama. Before that, I received my B.Eng. degree of Computer Science and Technology (Top-notched Student Program) from Sichuan University in 2021.
 
-- 🌱 My current research interests mainly lie in ```Responsible AI``` and ```Trustworthy Machine Learning```. 
+My research interests lie in building human-aligned machine intelligence, particularly in developing methodologies that improve model robustness (e.g., for adversarial examples), reliability (e.g., for out-of-distribution data), and transparency (e.g., for functionality and traceability), as well as its applications to construct responsible AI and benefit social goods. I am always open for possible collaborations. Please feel free to drop me an email if there is any suitable ideas or opportunities to discuss.
+
 - 😄 Please feel free to contact me for any question.
 
 <!--
